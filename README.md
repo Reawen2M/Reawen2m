@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm reawen</h1>
-<h3 align="center">18 years old Developer </h3>
+<h3 align="center">18 years old developer </h3>
+<h4 align="center">Free discord bots for DM. </h4>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Reawen2M&label=Profile%20views&color=80ceff&style=flat-square" alt="reawen" /> 
