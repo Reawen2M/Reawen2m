@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm renata</h1>
-<h3 align="center">18 y.o Developer </h3>
+<h1 align="center">Hi 👋, I'm reawen</h1>
+<h3 align="center">18 years old Developer </h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Reawen2M&label=Profile%20views&color=80ceff&style=flat-square" alt="reawen" /> 
