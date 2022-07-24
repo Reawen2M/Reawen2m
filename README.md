@@ -6,7 +6,7 @@
 
 </p>
 <div align="center">
-<a href="https://discord.com/users/913098051537760327"><img src="https://lanyard-profile-readme.vercel.app/api/913098051537760327?theme=dark&bg=00ffea&animated=true&idleMessage=Şu an bir şeyle uğraşmıyorum.&bg=:00ffea&animated=true&hideBadges=false&borderRadius=30px"></a>
+<a href="https://discord.com/users/913098051537760327"><img src="https://lanyard-profile-readme.vercel.app/api/913098051537760327?theme=light&bg=00ffea&animated=true&idleMessage=Şu an bir şeyle uğraşmıyorum.&bg=:00ffea&animated=true&hideBadges=false&borderRadius=30px"></a>
  </p>
 
 
