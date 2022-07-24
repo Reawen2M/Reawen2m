@@ -8,7 +8,7 @@
 
 </p>
 <div align="center">
-<a href="https://discord.com/users/913098051537760327"><img src="https://lanyard-profile-readme.vercel.app/api/913098051537760327?borderRadius=25px&bg=#282a36&animated=true&idleMessage=Şu an bir şeyle uğraşmıyorum.&hideBadges=false"></a>
+<a href="https://discord.com/users/913098051537760327"><img src="https://lanyard-profile-readme.vercel.app/api/913098051537760327?borderRadius=25px&bg=#282a36&animated=true&hideBadges=false&idleMessage=Şu an bir şeyle uğraşmıyorum."></a>
  </p>
 
 
